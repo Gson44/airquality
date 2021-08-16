@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/airquality/static/css/main.caa765d0.chunk.css",
+    "main.css": "/airquality/static/css/main.223b23ff.chunk.css",
     "main.js": "/airquality/static/js/main.87181835.chunk.js",
     "main.js.map": "/airquality/static/js/main.87181835.chunk.js.map",
     "runtime-main.js": "/airquality/static/js/runtime-main.edd2b6c6.js",
@@ -10,13 +10,13 @@
     "static/js/3.e1f25cb6.chunk.js": "/airquality/static/js/3.e1f25cb6.chunk.js",
     "static/js/3.e1f25cb6.chunk.js.map": "/airquality/static/js/3.e1f25cb6.chunk.js.map",
     "index.html": "/airquality/index.html",
-    "static/css/main.caa765d0.chunk.css.map": "/airquality/static/css/main.caa765d0.chunk.css.map",
+    "static/css/main.223b23ff.chunk.css.map": "/airquality/static/css/main.223b23ff.chunk.css.map",
     "static/js/2.8cc15825.chunk.js.LICENSE.txt": "/airquality/static/js/2.8cc15825.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.edd2b6c6.js",
     "static/js/2.8cc15825.chunk.js",
-    "static/css/main.caa765d0.chunk.css",
+    "static/css/main.223b23ff.chunk.css",
     "static/js/main.87181835.chunk.js"
   ]
 }

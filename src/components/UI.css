@@ -74,4 +74,10 @@
     animation-duration: 5.5s;
     
 }
+
+@media screen and (max-width: 800px) {
+    .UIcontainer {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+      height:100%;
+    }
 /* rgb(238,136,255) */

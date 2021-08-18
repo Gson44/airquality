@@ -6,16 +6,19 @@ const UI = () => {
     
     const [mqSensor, setMqSensor] = useState("")
     var percentage;
-    percentage = (mqSensor*100)/3000
+   
+        percentage = (mqSensor*100)/300
+    
+    
     const options = {
         width: 800,
         height: 300,
-        redFrom: 60,
+        redFrom: 70,
         redTo: 100,
-        yellowFrom: 12,
-        yellowTo: 60,
+        yellowFrom: 20,
+        yellowTo: 70,
         greenFrom:0,
-        greenTo:12,
+        greenTo:20,
         minorTicks: 10,
         
       };
